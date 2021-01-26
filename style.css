@@ -1,0 +1,25 @@
+.header{
+display: flex;
+justify-content:space-between;
+
+}
+
+h1{
+    background-color: cyan;
+    text-align: center;
+    
+    }
+
+.item{
+
+display: flex;
+justify-content:space-evenly;
+    
+}
+
+.footer{
+
+    display: flex;
+    justify-content:space-evenly;
+        
+    }
